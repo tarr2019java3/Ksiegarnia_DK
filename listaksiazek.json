@@ -1,1 +1,1 @@
-[{"name":"Byle dalej"},{"name":"Coraz lepiej"},{"name":"To jest już koniec"}]
+[{"name":"Byle dalej","author":{"name":"Jan","lastname":"Kowalski"},"category":{"name":"Fantasy"}},{"name":"Coraz lepiej","author":{"name":"Zbyszek","lastname":"Piotrowsk"},"category":{"name":"Fantasy"}},{"name":"To jest już koniec","author":{"name":"Kazik","lastname":"Nowak"},"category":{"name":"Fantasy"}}]
